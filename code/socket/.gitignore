@@ -1,0 +1,15 @@
+# Data
+*.txt
+packet
+
+# Output program
+send
+recv
+
+# Objects
+*.o
+
+# Caches
+*.sw[a-p]
+*.sw_
+*_
