@@ -11,7 +11,7 @@
 
 调研报告    	：[research.pdf](docs/research.pdf)
 
-可行性报告	：[fisibility.pdf](docs/feasibility.pdf)
+可行性报告	：[feasibility.pdf](docs/feasibility.pdf)
 
 结题报告    	：[conclusion.pdf](docs/conclusion.pdf)
 					  	 [conclusion.ppt](docs/conclusion.pptx)
